@@ -14,3 +14,5 @@ Our team works closely with cross-functional teams, including developers, custom
 ## Contact
 
 Email: lstv.qateam@gmail.com
+
+> Note: All repositories in this organization are private.
